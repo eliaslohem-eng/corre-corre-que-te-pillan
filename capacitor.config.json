@@ -1,0 +1,9 @@
+{
+  "appId": "com.elias.correquetepillan",
+  "appName": "Corre Corre Que Te Pillan",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
